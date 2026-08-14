@@ -12,11 +12,12 @@ I'm a Computer Science & Engineering student passionate about building practical
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, HTML, CSS
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, PostgreSQL
-**Tools:** Git, GitHub
+* **Languages:** JavaScript, HTML, CSS
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, PostgreSQL
+* **Tools:** Git, GitHub
+
 
 ### 📌 Featured Projects
 
